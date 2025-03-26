@@ -1,0 +1,1 @@
+A simple and interactive weather app that allows users to search for the weather of any city. The app fetches real-time weather data from the OpenWeather API and displays the temperature, humidity, and wind speed. It also features a smooth tilt effect on the main card using the VanillaTilt.js library.

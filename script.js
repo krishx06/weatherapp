@@ -24,7 +24,7 @@ searchBtn.addEventListener("click", () => {
 });
 
 VanillaTilt.init(document.querySelector(".card"), {
-    max: 5,
+    max: 15,
     speed: 1000,
     glare: true,
     "max-glare": 0.25,
